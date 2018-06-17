@@ -1,0 +1,4 @@
+#Sun Jun 17 11:10:10 CEST 2018
+base.0=C\:\\Users\\Miganger\\Desktop\\Zgody\\BasicMapSolution\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

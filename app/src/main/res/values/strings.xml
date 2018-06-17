@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloHEREMaps</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="prywatny">Prywatny</string>
+    <string name="platny">Płatny</string>
+    <string name="darmowy">Darmowy</string>
+</resources>

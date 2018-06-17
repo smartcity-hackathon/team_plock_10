@@ -1,0 +1,380 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.69306172150562,
+					52.54258081047913
+				],
+				"nazwa": "Plac Obrońców Warszawy",
+				"rodzaj": "platny"
+			},
+			"properties": {
+				"PARKOMATU": "24",
+				"ADRES": "",
+				"x": 19.6930617215,
+				"y": 52.5425808105
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.68963844735633,
+					52.547276673054846
+				],
+				"nazwa": "Królewiecka 2",
+				"rodzaj": "platny"
+			},
+			"properties": {
+				"PARKOMATU": "43",
+				"ADRES": "",
+				"x": 19.6896384474,
+				"y": 52.5472766731
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.688637951736276,
+					52.54460151083402
+				],
+				"nazwa": "Józefa Kwiatka 9",
+				"rodzaj": "platny"
+			},
+			"properties": {
+				"PARKOMATU": "45",
+				"ADRES": "",
+				"x": 19.6886379517,
+				"y": 52.5446015108
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.68695264670779,
+					52.545854695939944
+				],
+				"nazwa": "Józefa Kwiatka 41",
+				"rodzaj": "platny"
+			},
+			"properties": {
+				"PARKOMATU": "13",
+				"ADRES": "",
+				"x": 19.6869526467,
+				"y": 52.5458546959
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.68472008798579,
+					52.54393338651278
+				],
+				"nazwa": "Piekarska 11",
+				"rodzaj": "platny"
+			},
+			"properties": {
+				"PARKOMATU": "15",
+				"ADRES": "",
+				"x": 19.684720088,
+				"y": 52.5439333865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.68235558831962,
+					52.54621750209458
+				],
+				"nazwa": "Kazimierza Wielkiego 13",
+				"rodzaj": "platny"
+			},
+			"properties": {
+				"PARKOMATU": "6",
+				"ADRES": "",
+				"x": 19.6823555883,
+				"y": 52.5462175021
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.68537101622531,
+					52.54693590306851
+				],
+				"nazwa": "Józefa Kwiatka 57",
+				"rodzaj": "platny"
+			},
+			"properties": {
+				"PARKOMATU": "10",
+				"ADRES": "",
+				"x": 19.6853710162,
+				"y": 52.5469359031
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.68648860932915,
+					52.54837072367371
+				],
+				"nazwa": "Ostatnia 7",
+				"rodzaj": "platny"
+			},
+			"properties": {
+				"PARKOMATU": "2",
+				"ADRES": "",
+				"x": 19.6864886093,
+				"y": 52.5483707237
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.693494,
+					52.548546
+				],
+				"nazwa": "Plac Nowy Rynek - Teatr",
+				"rodzaj": "darmowy"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"PARKING": "101",
+				"ADRES": "TEATR",
+				"x": 52.548546,
+				"y": 19.693494
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.711932,
+					52.552128
+				],
+				"nazwa": "Fryderyka Chopina - Dworzec",
+				"rodzaj": "darmowy"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"PARKING": "102",
+				"ADRES": "PKP",
+				"x": 52.552128,
+				"y": 19.711932
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.694278,
+					52.561133
+				],
+				"nazwa": "11 Grupy Operacyjnej Narodowych Sił Zbrojnych 11",
+				"rodzaj": "darmowy"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"PARKING": "103",
+				"ADRES": "ELEKTRYK",
+				"x": 52.561133,
+				"y": 19.694278
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.682922,
+					52.559959
+				],
+				"nazwa": "Konstantego Ildefonsa Gałczyńskiego 11 - Kaufland",
+				"rodzaj": "darmowy"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"PARKING": "104",
+				"ADRES": "OARENA",
+				"x": 52.559959,
+				"y": 19.682922
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.678751,
+					52.559251
+				],
+				"nazwa": "Plac Celebry Papieskiej 1 - Orlen Arena",
+				"rodzaj": "darmowy"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"PARKING": "105",
+				"ADRES": "KAUFLAND",
+				"x": 52.559251,
+				"y": 19.678751
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.6929,
+					52.5537
+				],
+				"nazwa": "Przemysłowa - Carrefour",
+				"rodzaj": "darmowy"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"PARKING": "106",
+				"ADRES": "CARREFOUR",
+				"x": 52.5537,
+				"y": 19.6929
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.6902,
+					52.5534
+				],
+				"nazwa": "Rajmunda Rembielińskiego - Zgoda",
+				"rodzaj": "darmowy"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"PARKING": "107",
+				"ADRES": "ZGODATYSIAC",
+				"x": 52.5534,
+				"y": 19.6902
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.7523,
+					52.536
+				],
+				"nazwa": " Wyszogrodzka - Auchan",
+				"rodzaj": "darmowy"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"PARKING": "108",
+				"ADRES": "AUCHAN",
+				"x": 52.536,
+				"y": 19.7523
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.7512,
+					52.538
+				],
+				"nazwa": "Wyszogrodzka 127 - Mazovia",
+				"rodzaj": "darmowy"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"PARKING": "109",
+				"ADRES": "MAZOVIA",
+				"x": 52.538,
+				"y": 19.7512
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.7581,
+					52.5347
+				],
+				"nazwa": "Wyszogrodzka 144 - Wisła",
+				"rodzaj": "darmowy"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"PARKING": "110",
+				"ADRES": "WISLA",
+				"x": 52.5347,
+				"y": 19.7581
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.6935,
+					52.5442
+				],
+				"nazwa": "Henryka Sienkiewicza 35 - Priv",
+				"rodzaj": "prywatny"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"PARKING": "111",
+				"ADRES": "sienkiewicza priv",
+				"x": 52.5442,
+				"y": 19.6935
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.6963,
+					52.5466
+				],
+				"nazwa": "Królewiecka 27 - Priv",
+				"rodzaj": "prywatny"
+			},
+			"properties": {
+				"marker-color": "#fffa17",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"PARKING": "112",
+				"ADRES": "krolewiecka priv",
+				"x": 52.5466,
+				"y": 19.6963
+			}
+		}
+	]
+}

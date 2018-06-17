@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [:HERE-sdk:] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\HERE-sdk.aar\6d44bd3ddbf6cfc69939746626ec2345\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\11670c9d60e4190064a5f2d4852f6152\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\3023ee5672be80c0e5d3325fc9eaaaaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\906f3ccc77ef066f1cae3bb062417176\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3f06ea0ba78b9cf382d88f1d9abbf4d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\023fe5adc41d3a45a2a706c84510a1cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\a761c1c01e6cd5429d14cdea4f5c05ee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ed24e76a843e8adb16d6058a95412118\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:12:22-73
+application
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:14:5-37:19
+	android:label
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:17:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:18:9-43
+	android:icon
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:15:9-35
+activity#com.here.android.tutorial.BasicMapActivity
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:23:13-47
+	android:label
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:21:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:27:27-74
+meta-data#com.here.android.maps.appid
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:31:9-33:52
+	android:value
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:32:13-55
+meta-data#com.here.android.maps.apptoken
+ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:34:9-36:54
+	android:value
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:36:13-51
+	android:name
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml:35:13-58
+uses-sdk
+INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+MERGED from [:HERE-sdk:] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\HERE-sdk.aar\6d44bd3ddbf6cfc69939746626ec2345\AndroidManifest.xml:7:5-9:41
+MERGED from [:HERE-sdk:] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\HERE-sdk.aar\6d44bd3ddbf6cfc69939746626ec2345\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\11670c9d60e4190064a5f2d4852f6152\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\11670c9d60e4190064a5f2d4852f6152\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\3023ee5672be80c0e5d3325fc9eaaaaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\3023ee5672be80c0e5d3325fc9eaaaaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\906f3ccc77ef066f1cae3bb062417176\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\906f3ccc77ef066f1cae3bb062417176\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3f06ea0ba78b9cf382d88f1d9abbf4d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3f06ea0ba78b9cf382d88f1d9abbf4d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\023fe5adc41d3a45a2a706c84510a1cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\023fe5adc41d3a45a2a706c84510a1cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\a761c1c01e6cd5429d14cdea4f5c05ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\a761c1c01e6cd5429d14cdea4f5c05ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ed24e76a843e8adb16d6058a95412118\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Miganger\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ed24e76a843e8adb16d6058a95412118\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miganger\Desktop\Zgody\BasicMapSolution\app\src\main\AndroidManifest.xml
